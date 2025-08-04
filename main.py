@@ -11,6 +11,7 @@ import sys
 pygame.init()
 
 # Adding new content
+# This is the content added for the second commit...
 
 #Setting the size of the display window
 screen_size = ((500, 500))
