@@ -23,7 +23,7 @@ ScreenWidth = 500
 pygame.display.set_caption("Demo platformer")
 
 #importing images
-walkRight = [img.load("images/R1.png"), img.load("/images/R2.png"), img.load("images/R3.png"),img.load("images/R4.png"),img.load("images/R5.png"),img.load("images/R6.png"),img.load("images/R7.png"),img.load("images/R8.png"),img.load("images/R9.png")]
+walkRight = [img.load("images/R1.png"), img.load("images/R2.png"), img.load("images/R3.png"),img.load("images/R4.png"),img.load("images/R5.png"),img.load("images/R6.png"),img.load("images/R7.png"),img.load("images/R8.png"),img.load("images/R9.png")]
 walkLeft = [img.load("images/L1.png"), img.load("images/L2.png"), img.load("images/L3.png"),img.load("images/L4.png"),img.load("images/L5.png"),img.load("images/L6.png"),img.load("images/L7.png"),img.load("images/L8.png"),img.load("images/L9.png")]
 bg = img.load("images/bg.jpg")
 char = img.load("images/standing.png")
